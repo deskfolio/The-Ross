@@ -1,0 +1,28 @@
+{
+  "properties" : {
+    "duration" : 12,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "Cheers-00.png"
+    },
+    {
+      "filename" : "Cheers-001.png"
+    },
+    {
+      "filename" : "Cheers-002.png"
+    },
+    {
+      "filename" : "Cheers-003.png"
+    },
+    {
+      "filename" : "Cheers-004.png"
+    }
+  ]
+}

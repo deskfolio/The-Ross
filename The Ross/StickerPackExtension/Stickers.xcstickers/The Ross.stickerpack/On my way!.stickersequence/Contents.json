@@ -1,0 +1,34 @@
+{
+  "properties" : {
+    "duration" : 15,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "On my way! - 000.png"
+    },
+    {
+      "filename" : "On my way! - 001.png"
+    },
+    {
+      "filename" : "On my way! - 002.png"
+    },
+    {
+      "filename" : "On my way! - 003.png"
+    },
+    {
+      "filename" : "On my way! - 004.png"
+    },
+    {
+      "filename" : "On my way! - 005.png"
+    },
+    {
+      "filename" : "On my way! - 006.png"
+    }
+  ]
+}

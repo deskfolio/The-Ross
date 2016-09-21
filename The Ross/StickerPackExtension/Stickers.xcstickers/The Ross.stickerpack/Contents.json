@@ -1,0 +1,65 @@
+{
+  "stickers" : [
+    {
+      "filename" : "I'm in!.sticker"
+    },
+    {
+      "filename" : "Go, go, go!.sticker"
+    },
+    {
+      "filename" : "No problemo!.stickersequence"
+    },
+    {
+      "filename" : "Ta-da!.sticker"
+    },
+    {
+      "filename" : "On my way!.stickersequence"
+    },
+    {
+      "filename" : "Yay!.sticker"
+    },
+    {
+      "filename" : "Cheers!.stickersequence"
+    },
+    {
+      "filename" : "Are you sleeping buddy?.sticker"
+    },
+    {
+      "filename" : "It's magical!.stickersequence"
+    },
+    {
+      "filename" : "Yeah!.sticker"
+    },
+    {
+      "filename" : "Toodle-oo!.sticker"
+    },
+    {
+      "filename" : "Donnut ride.stickersequence"
+    },
+    {
+      "filename" : "Paint me like one of your french girls.stickersequence"
+    },
+    {
+      "filename" : "Let's go!.sticker"
+    },
+    {
+      "filename" : "Check your emails.sticker"
+    },
+    {
+      "filename" : "Suave!.sticker"
+    },
+    {
+      "filename" : "Call me!.sticker"
+    },
+    {
+      "filename" : "Wait for me!.stickersequence"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

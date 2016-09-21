@@ -1,0 +1,334 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C06BFEED1D8CDA8300CDF96E /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = C06BFEEC1D8CDA8300CDF96E /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		C06BFEF11D8CDA8300CDF96E /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = C06BFEF01D8CDA8300CDF96E /* Stickers.xcstickers */; };
+		C06BFEF21D8CDA8300CDF96E /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = C06BFEF01D8CDA8300CDF96E /* Stickers.xcstickers */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C06BFEEE1D8CDA8300CDF96E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C06BFEE21D8CDA8200CDF96E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C06BFEEB1D8CDA8300CDF96E;
+			remoteInfo = StickerPackExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C06BFEF81D8CDA8300CDF96E /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				C06BFEED1D8CDA8300CDF96E /* StickerPackExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C06BFEE81D8CDA8300CDF96E /* The Ross.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Ross.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C06BFEEC1D8CDA8300CDF96E /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		C06BFEF01D8CDA8300CDF96E /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C06BFEE11D8CDA8200CDF96E = {
+			isa = PBXGroup;
+			children = (
+				C06BFEF01D8CDA8300CDF96E /* Stickers.xcstickers */,
+				C06BFEE91D8CDA8300CDF96E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C06BFEE91D8CDA8300CDF96E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C06BFEE81D8CDA8300CDF96E /* The Ross.app */,
+				C06BFEEC1D8CDA8300CDF96E /* StickerPackExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C06BFEE71D8CDA8200CDF96E /* The Ross */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C06BFEF91D8CDA8300CDF96E /* Build configuration list for PBXNativeTarget "The Ross" */;
+			buildPhases = (
+				C06BFEE61D8CDA8200CDF96E /* Resources */,
+				C06BFEF81D8CDA8300CDF96E /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C06BFEEF1D8CDA8300CDF96E /* PBXTargetDependency */,
+			);
+			name = "The Ross";
+			productName = "The Ross";
+			productReference = C06BFEE81D8CDA8300CDF96E /* The Ross.app */;
+			productType = "com.apple.product-type.application.messages";
+		};
+		C06BFEEB1D8CDA8300CDF96E /* StickerPackExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C06BFEF51D8CDA8300CDF96E /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildPhases = (
+				C06BFEEA1D8CDA8300CDF96E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StickerPackExtension;
+			productName = StickerPackExtension;
+			productReference = C06BFEEC1D8CDA8300CDF96E /* StickerPackExtension.appex */;
+			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C06BFEE21D8CDA8200CDF96E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Antonio García Aprea";
+				TargetAttributes = {
+					C06BFEE71D8CDA8200CDF96E = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4K7B5NTS94;
+						ProvisioningStyle = Automatic;
+					};
+					C06BFEEB1D8CDA8300CDF96E = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4K7B5NTS94;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C06BFEE51D8CDA8200CDF96E /* Build configuration list for PBXProject "The Ross" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C06BFEE11D8CDA8200CDF96E;
+			productRefGroup = C06BFEE91D8CDA8300CDF96E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C06BFEE71D8CDA8200CDF96E /* The Ross */,
+				C06BFEEB1D8CDA8300CDF96E /* StickerPackExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C06BFEE61D8CDA8200CDF96E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C06BFEF21D8CDA8300CDF96E /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C06BFEEA1D8CDA8300CDF96E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C06BFEF11D8CDA8300CDF96E /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C06BFEEF1D8CDA8300CDF96E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C06BFEEB1D8CDA8300CDF96E /* StickerPackExtension */;
+			targetProxy = C06BFEEE1D8CDA8300CDF96E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C06BFEF31D8CDA8300CDF96E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C06BFEF41D8CDA8300CDF96E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C06BFEF61D8CDA8300CDF96E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				INFOPLIST_FILE = StickerPackExtension/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.TheRoss.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		C06BFEF71D8CDA8300CDF96E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				INFOPLIST_FILE = StickerPackExtension/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.TheRoss.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		C06BFEFA1D8CDA8300CDF96E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				INFOPLIST_FILE = "The Ross/Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.TheRoss;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C06BFEFB1D8CDA8300CDF96E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				INFOPLIST_FILE = "The Ross/Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.TheRoss;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C06BFEE51D8CDA8200CDF96E /* Build configuration list for PBXProject "The Ross" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C06BFEF31D8CDA8300CDF96E /* Debug */,
+				C06BFEF41D8CDA8300CDF96E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C06BFEF51D8CDA8300CDF96E /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C06BFEF61D8CDA8300CDF96E /* Debug */,
+				C06BFEF71D8CDA8300CDF96E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C06BFEF91D8CDA8300CDF96E /* Build configuration list for PBXNativeTarget "The Ross" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C06BFEFA1D8CDA8300CDF96E /* Debug */,
+				C06BFEFB1D8CDA8300CDF96E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C06BFEE21D8CDA8200CDF96E /* Project object */;
+}
