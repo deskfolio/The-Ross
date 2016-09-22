@@ -1,7 +1,7 @@
+![The Ross title](/design/assets/The%20Ross%20title.png?raw=true "The Ross")
+
 ## The Ross 🚴🏼 — Sticker Pack for iMessages (iOS 10)
 The Ross is a series of both animated and static stickers about the former bicycle guy at Xamarin: Ross Yates (a.k.a. Jesus Bike). If you want, you can check out his pretty face on [Facebook](https://www.facebook.com/profile.php?id=15920985&sk=about).
-
-
 
 
 ### Design
