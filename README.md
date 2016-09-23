@@ -1,15 +1,15 @@
 ![The Ross title](/design/assets/The%20Ross%20title.png?raw=true "The Ross")
 
 # The Ross — Sticker Pack for iMessages (iOS 10)
-The Ross is a series of both animated and static stickers about the former bicycle guy at Xamarin: Ross Yates (a.k.a. Jesus Bike). If you want, you can check out his pretty face on [Facebook](https://www.facebook.com/profile.php?id=15920985&sk=about).
+<strong>The Ross</strong> is a series of both animated and static stickers inspired on the former bicycle guy at Xamarin: Ross Yates (a.k.a. Jesus Bike). If you want, you can check out his pretty face on [Facebook](https://www.facebook.com/profile.php?id=15920985&sk=about).
 
 <br />
 
 ## About the Sticker Pack
-The size chosen for the sticker pack is "medium". Here's the complete list:
+The size chosen for the sticker pack is "medium" (408 x 408px exported @2x). Here's the complete list:<br /><br />
 
 | #       | Name                     | Animated  | Format        | Frames | FPS | File |
-| -------:| ------------------------ |:---------:|:--------------| :-----:| :--:| :---:|
+| :------:| ------------------------ |:---------:|:--------------| :-----:| :--:| :---:|
 |   1     | I'm in!                  |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/I'm in!.png)   |
 |   2     | Go! go! go!              |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Go!.png)   |
 |   3     | No problemo!             | ✓         | .PNG sequence |    4   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/No Problemo!/)
@@ -33,12 +33,12 @@ The size chosen for the sticker pack is "medium". Here's the complete list:
 
 ## Design
 All the stickers, app icons, and settings icons can be found [here](/design/assets/).<br />
-All the editable stickers and icons in vector format can be found inside this [.sketch file](/design/sketch/The Ross (Sticker Pack).sketch).
+All the editable stickers and icons in vector format can be found inside this [.sketch file](/design/sketch/The Ross (Sticker Pack).sketch).<br />
+The font used on the stickers is [BadaBoom BB](http://www.dafont.com/badaboom-bb.font) by Nate Piekos.
 
 
 ## Btw
-Some stickers contain nipple level of nudity, so I guess viewer discretion is advised!<br/>
-All images were inspired on Microsoft’s illustration style.
+Some stickers contain nipple level of nudity, so I guess viewer discretion is advised! All images were inspired on Microsoft’s illustration style.
   
 #### License
 Copyright © 2016 Antonio Nicolás Martiniano García Aprea.
