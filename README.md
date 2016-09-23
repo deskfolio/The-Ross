@@ -8,28 +8,28 @@ The size chosen for the sticker pack is "medium". Here's the complete list:
 
 | #       | Name                     | Animated  | Format        | Frames | FPS | File |
 | -------:| ------------------------ |:---------:|:--------------| :-----:| :--:| :---:|
-|   1     | I'm in!                  |           | .PNG          |        |     | 🔗   |
-|   2     | Go! go! go!              |           | .PNG          |        |     | 🔗
-|   3     | No problemo!             | ✓         | .PNG sequence |    4   |  15 | 📂
-|   4     | Ta-da!                   |           | .PNG          |        |     | 🔗
-|   5     | On my way!               | ✓         | .PNG sequence |    7   |  15 | 📂
-|   6     | Yay!                     |           | .PNG          |        |     | 🔗
-|   7     | Cheers!                  | ✓         | .PNG sequence |    5   |  12 | 📂
-|   8     | Are you sleeping buddy?  |           | .PNG          |        |     | 🔗
-|   9     | It's magical!            | ✓         | .PNG sequence |    7   |  15 | 📂
-|   10    | Yeah!                    |           | .PNG          |        |     | 🔗
-|   11    | Toodle-oo!               |           | .PNG          |        |     | 🔗
-|   12    | Donnut ride              | ✓         | .PNG sequence |    6   |  15 | 📂
-|   13    | Paint me like one of ... | ✓         | .PNG sequence |    7   |  15 | 📂
-|   14    | Let's go!                |           | .PNG          |        |     | 🔗
-|   15    | Check your emails        |           | .PNG          |        |     | 🔗
-|   16    | Suave!                   |           | .PNG          |        |     | 🔗
-|   17    | Call me!                 |           | .PNG          |        |     | 🔗
-|   17    | Wait for me!             | ✓         | .PNG sequence |    7   |  12 | 📂
+|   1     | I'm in!                  |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/I'm in!.png)   |
+|   2     | Go! go! go!              |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Go!.png)   |
+|   3     | No problemo!             | ✓         | .PNG sequence |    4   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/No Problemo!/)
+|   4     | Ta-da!                   |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Ta-da!.png)
+|   5     | On my way!               | ✓         | .PNG sequence |    7   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/On my way!/)
+|   6     | Yay!                     |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Yay!.png)
+|   7     | Cheers!                  | ✓         | .PNG sequence |    5   |  12 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Cheers!/)
+|   8     | Are you sleeping buddy?  |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Are you sleeping buddy?.png)
+|   9     | It's magical!            | ✓         | .PNG sequence |    7   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/It's magical!/)
+|   10    | Yeah!                    |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Yay!.png)
+|   11    | Toodle-oo!               |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Toodle-oo!.png)
+|   12    | Donnut ride              | ✓         | .PNG sequence |    6   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Donnut Ride/)
+|   13    | Paint me like one of ... | ✓         | .PNG sequence |    7   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Paint me!/)
+|   14    | Let's go!                |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Let's go!.png)
+|   15    | Check your emails        |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Check your emails.png)
+|   16    | Suave!                   |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Suave!.png)
+|   17    | Call me!                 |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Call me!.png)
+|   18    | Wait for me!             | ✓         | .PNG sequence |    7   |  12 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Wait for me!/)
 
 ### Design
-All the stickers, app icons, and settings icons can be found [here](https://github.com/deskfolio/The-Ross/tree/master/design/assets).<br />
-All the editable stickers and icons in vector format can be found inside this [sketch file](https://github.com/deskfolio/The-Ross/blob/master/design/sketch/The%20Ross%20(Sticker%20Pack).sketch).
+All the stickers, app icons, and settings icons can be found [here](/design/assets/).<br />
+All the editable stickers and icons in vector format can be found inside this [.sketch file](/design/sketch/The Ross (Sticker Pack).sketch).
 
 
 #### Btw
