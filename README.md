@@ -1,9 +1,11 @@
 ![The Ross title](/design/assets/The%20Ross%20title.png?raw=true "The Ross")
 
-## The Ross — Sticker Pack for iMessages (iOS 10)
+# The Ross — Sticker Pack for iMessages (iOS 10)
 The Ross is a series of both animated and static stickers about the former bicycle guy at Xamarin: Ross Yates (a.k.a. Jesus Bike). If you want, you can check out his pretty face on [Facebook](https://www.facebook.com/profile.php?id=15920985&sk=about).
 
-### About the Sticker Pack
+<br />
+
+## About the Sticker Pack
 The size chosen for the sticker pack is "medium". Here's the complete list:
 
 | #       | Name                     | Animated  | Format        | Frames | FPS | File |
@@ -27,12 +29,14 @@ The size chosen for the sticker pack is "medium". Here's the complete list:
 |   17    | Call me!                 |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Call me!.png)
 |   18    | Wait for me!             | ✓         | .PNG sequence |    7   |  12 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Wait for me!/)
 
-### Design
+<br />
+
+## Design
 All the stickers, app icons, and settings icons can be found [here](/design/assets/).<br />
 All the editable stickers and icons in vector format can be found inside this [.sketch file](/design/sketch/The Ross (Sticker Pack).sketch).
 
 
-#### Btw
+## Btw
 Some stickers contain nipple level of nudity, so I guess viewer discretion is advised!<br/>
 All images were inspired on Microsoft’s illustration style.
   
