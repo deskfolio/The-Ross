@@ -10,24 +10,24 @@ The size chosen for the sticker pack is "medium" (408 x 408px exported @2x). Her
 
 | #       | Name                     | Animated  | Format        | Frames | FPS | File |
 | :------:| ------------------------ |:---------:|:--------------| :-----:| :--:| :---:|
-|   1     | I'm in!                  |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/I'm in!.png)   |
-|   2     | Go! go! go!              |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Go!.png)   |
-|   3     | No problemo!             | ✓         | .PNG sequence |    4   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/No Problemo!/)
-|   4     | Ta-da!                   |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Ta-da!.png)
-|   5     | On my way!               | ✓         | .PNG sequence |    7   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/On my way!/)
-|   6     | Yay!                     |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Yay!.png)
-|   7     | Cheers!                  | ✓         | .PNG sequence |    5   |  12 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Cheers!/)
-|   8     | Are you sleeping buddy?  |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Are you sleeping buddy?.png)
-|   9     | It's magical!            | ✓         | .PNG sequence |    7   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/It's magical!/)
-|   10    | Yeah!                    |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Yay!.png)
-|   11    | Toodle-oo!               |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Toodle-oo!.png)
-|   12    | Donnut ride              | ✓         | .PNG sequence |    6   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Donnut Ride/)
-|   13    | Paint me like one of ... | ✓         | .PNG sequence |    7   |  15 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Paint me!/)
-|   14    | Let's go!                |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Let's go!.png)
-|   15    | Check your emails        |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Check your emails.png)
-|   16    | Suave!                   |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Suave!.png)
-|   17    | Call me!                 |           | .PNG          |        |     | [🔗](/design/assets/Stickers - Medium (408x408)/static/Call me!.png)
-|   18    | Wait for me!             | ✓         | .PNG sequence |    7   |  12 | [📂](/design/assets/Stickers - Medium (408x408)/animated/Wait for me!/)
+|   1     | I'm in!                  |           | .PNG          |        |     | ![Image](/design/assets/Stickers%20-%20Medium%20(408x408)/static/I'm%20in!.png)   |
+|   2     | Go! go! go!              |           | .PNG          |        |     | ![Image](/design/assets/Stickers%20-%20Medium%20(408x408)/static/Go!.png)
+|   3     | No problemo!             | ✓         | .PNG sequence |    4   |  15 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/No%20Problemo!/No%20Problemo!%20-%20000.png)
+|   4     | Ta-da!                   |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Ta-da!.png)
+|   5     | On my way!               | ✓         | .PNG sequence |    7   |  15 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/On%20my%20way!/On%20my%20way!%20-%20000.png)
+|   6     | Yay!                     |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Yay!.png)
+|   7     | Cheers!                  | ✓         | .PNG sequence |    5   |  12 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/Cheers!/Cheers-00.png)
+|   8     | Are you sleeping buddy?  |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Are%20you%20sleeping%20buddy%3F.png)
+|   9     | It's magical!            | ✓         | .PNG sequence |    7   |  15 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/It's%20magical!/It's%20magical!%20-%20000.png)
+|   10    | Yeah!                    |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Yeah!.png)
+|   11    | Toodle-oo!               |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Toodle-oo!.png)
+|   12    | Donnut ride              | ✓         | .PNG sequence |    6   |  15 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/Donnut%20Ride/donnut-000.png)
+|   13    | Paint me like one of ... | ✓         | .PNG sequence |    7   |  15 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/Paint%20me!/Paint%20me%20like%20one%20of%20your%20french%20girls%20-%20000.png)
+|   14    | Let's go!                |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Let's%20go!.png?token=GHSAT0AAAAAABWC7UE2ZVJYVLVBOBB546RKYWDVIUA)
+|   15    | Check your emails        |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Check%20your%20emails.png)
+|   16    | Suave!                   |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Suave!.png)
+|   17    | Call me!                 |           | .PNG          |        |     | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/static/Call%20me!.png)
+|   18    | Wait for me!             | ✓         | .PNG sequence |    7   |  12 | ![Image](design/assets/Stickers%20-%20Medium%20(408x408)/animated/Wait%20for%20me!/Wait%20for%20me!%20-%20000.png)
 
 <br />
 
@@ -37,12 +37,11 @@ All the editable stickers and icons in vector format can be found inside this [.
 The font used on the stickers is [BadaBoom BB](http://www.dafont.com/badaboom-bb.font) by Nate Piekos.
 
 
-## Btw
+## BTW
 Some stickers contain nipple level of nudity, so I guess viewer discretion is advised! All images were inspired on Microsoft’s illustration style.
   
 #### License
-Copyright © 2016 Antonio Nicolás Martiniano García Aprea.
-
+<sub>Copyright © 2016 Antonio Nicolás Martiniano García Aprea.<sub>
 <br/>
 🚴
-<br/>
+
