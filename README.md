@@ -3,7 +3,10 @@
 # The Ross — Sticker Pack for iMessages (iOS 10)
 <strong>The Ross</strong> is a series of both animated and static stickers inspired on the former bicycle guy at Xamarin: Ross Yates (a.k.a. Jesus Bike). If you want, you can check out his pretty face on [Facebook](https://www.facebook.com/profile.php?id=15920985&sk=about).
 
-<br />
+### Screenshots (iPhone 13 mini)
+
+![Screenshots iPhone mini 13](https://user-images.githubusercontent.com/1668574/181425802-edffe9c5-045f-4f9d-82cc-19479f36b89e.png)
+
 
 ## About the Sticker Pack
 The size chosen for the sticker pack is "medium" (408 x 408px exported @2x). Here's the complete list:<br /><br />
