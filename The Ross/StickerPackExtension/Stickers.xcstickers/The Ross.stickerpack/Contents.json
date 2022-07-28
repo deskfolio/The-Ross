@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "large"
+  },
   "stickers" : [
     {
       "filename" : "I'm in!.sticker"
@@ -54,12 +61,5 @@
     {
       "filename" : "Wait for me!.stickersequence"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "regular"
-  }
+  ]
 }
